@@ -18,7 +18,7 @@ To install, type nmp i to install the dependencies, and then type npm run dev to
 
 When the browser is opened, the user will see a potential job candidate.
 
-![Initial screen example](https://github.com/AmySuperCoder/Candidate_Search/blob/main/public/Images/Candidate_search_example.png
+![Initial screen example](https://github.com/AmySuperCoder/Candidate_Search/blob/main/public/Images/Candidate_search_example.png)
 
 Click the plus icon to save the candidate for further consideration, or click the minus button to reject the candidate. The app will display the next candidate.
 
@@ -30,7 +30,7 @@ When that happens, simply click the Next Candidate button.
 
 Candidates are given in batches of 30. When you have looked at all 30 candidates, you will see the following message:
 
-![No more candidates](https://github.com/AmySuperCoder/Candidate_Search/blob/main/public/Images/Candidate_error.png)
+![No more candidates](https://github.com/AmySuperCoder/Candidate_Search/blob/main/public/Images/No-more-candidates.png)
 
 If you would like to view more candidates, click refresh on your internet browser.
 
