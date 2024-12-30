@@ -83,7 +83,7 @@ setCandidateNum(candidateNum+1)
     setCandidateNum(candidateNum+1)
   }
 
-  return (<div><h1>CandidateSearch</h1>
+  return (<div><h1>Candidate Search</h1>
   {candidateError && 
 <div>
   <p>Error displaying candidate</p>
@@ -103,8 +103,8 @@ setCandidateNum(candidateNum+1)
     
     
   </section>
-  <div>
-    <button onClick={handleDiscardCandidate}>
+  <div className="accept-reject">
+    <button onClick={handleDiscardCandidate} >
     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="black" className="icon-button">
   <path strokeLinecap="round" strokeLinejoin="round" d="M5 12h14" />
 </svg>

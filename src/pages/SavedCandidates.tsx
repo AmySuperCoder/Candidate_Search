@@ -91,8 +91,8 @@ const handleFilterCandidates = () => {
     <>
       <h1>Potential Candidates</h1>
       <div className="buttons">
-        <button onClick={handleSortCandidates}>Sort</button>
-        <button onClick={handleFilterCandidates}>Filter (No bio)</button>
+        <button onClick={handleSortCandidates}>Sort names A-Z</button>
+        <button onClick={handleFilterCandidates}>Filter candidates with bios</button>
       </div>
 <div className="container">
   <div>Image</div>
